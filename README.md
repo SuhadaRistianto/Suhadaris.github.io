@@ -1,6 +1,5 @@
 # Suhadaris.github.io
-About Me
-# Hi there, I'm Suhada Ristianto 👋
+# Suhada Ristianto 👋
 ## About me:
 Saya sedang mencari kesempatan untuk mengembangkan keterampilan baru sambil memperkuat keterampilan yang saya miliki. Pengalaman saya di bagian IT selama 2 Tahun, Saya bisa bekerja dengan baik atas inisiatif saya sendiri dan sebagai bagian dari tim.
 
